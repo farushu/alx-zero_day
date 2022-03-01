@@ -1,1 +1,1 @@
-My first readme
+_Standard_
